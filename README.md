@@ -1,4 +1,4 @@
-# Topology-Aware Generative AI Framework for Automated Single-Stage BJT Amplifier Design
+# Generative AI-Based Synthesis of Single-Stage BJT Amplifiers with Gain Validation
 
 ## Project Overview
 
